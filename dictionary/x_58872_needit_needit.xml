@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b0379f23c3bd4a100f0cb71d0501315b" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" type="collection">
+        <element label="My other variable" max_length="40" name="my_other_variable" type="integer"/>
+        <element label="New 3" max_length="40" name="new_3" type="integer"/>
+    </element>
+</database>
